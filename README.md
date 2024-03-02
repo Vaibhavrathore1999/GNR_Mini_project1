@@ -1,8 +1,6 @@
 # GNR_Mini_project1
 This is the Ongoing effort.
 ResNet18 has 11.20 million parameters and gives a accuracy of 51.36 % on CUB-200-2011 dataset.
-![alt text]((https://github.com/Vaibhavrathore1999/GNR_Mini_project1/blob/main/Resnet18_result.png))
-
 
 Dataset Credits :
 @techreport{WahCUB_200_2011,
